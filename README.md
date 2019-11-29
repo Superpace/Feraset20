@@ -13,7 +13,7 @@ And at the end of the match , points are awarded according to the scores given i
 
 ![points](https://user-images.githubusercontent.com/36486345/69848478-42e0bc00-128b-11ea-9775-af1aa4d47d0f.png)
 
-Finally we give a jersey jersey of your favorite team to CHAMPION
+Finally we give a jersey of him favorite team to CHAMPION
 
 ![pointtable](https://user-images.githubusercontent.com/36486345/69848580-83d8d080-128b-11ea-8da6-da08a7c97305.png)
 
