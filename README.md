@@ -1,4 +1,4 @@
-# feraset20
+# Feraset20
 I wrote this app for only fun with my friends . 
 
 It is a score giving game to 4 great turkish clubs
