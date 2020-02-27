@@ -3,7 +3,7 @@ I wrote this app for only fun with my friends .
 
 It is a score giving game to 4 great turkish clubs
 
-![givescore](https://user-images.githubusercontent.com/36486345/69847574-90a7f500-1288-11ea-886f-8988edeaaa07.png)
+![87555371_488388002068635_9075309267027755008_n](https://user-images.githubusercontent.com/36486345/75453763-7368ec80-5985-11ea-9b3e-bbb339dab46d.png)
 
 When the match time approaches, the admin activates the score entry screen
 
